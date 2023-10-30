@@ -36,8 +36,5 @@ après chaque commande git.
 
 Auteurs :
  - Fabien Rozar
-<<<<<<< HEAD
  - Jérome PATON
-=======
  - Lucas GANGNANT
->>>>>>> 29e5d35 (push (#1))
